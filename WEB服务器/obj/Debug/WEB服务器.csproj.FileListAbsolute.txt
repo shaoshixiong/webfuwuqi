@@ -1,0 +1,7 @@
+F:\SVN代码管理\WEB服务器\WEB服务器\bin\Debug\WEB服务器.exe
+F:\SVN代码管理\WEB服务器\WEB服务器\bin\Debug\WEB服务器.pdb
+F:\SVN代码管理\WEB服务器\WEB服务器\obj\Debug\WEB服务器.WEB服务器.resources
+F:\SVN代码管理\WEB服务器\WEB服务器\obj\Debug\WEB服务器.Properties.Resources.resources
+F:\SVN代码管理\WEB服务器\WEB服务器\obj\Debug\WEB服务器.csproj.GenerateResource.Cache
+F:\SVN代码管理\WEB服务器\WEB服务器\obj\Debug\WEB服务器.exe
+F:\SVN代码管理\WEB服务器\WEB服务器\obj\Debug\WEB服务器.pdb
