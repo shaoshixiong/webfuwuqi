@@ -6,7 +6,7 @@
 <h2>运行</h2>
 1.运行里面的exe并启动服务，就可以在浏览器里访问了。
 <br/>
-<h2>截图</h2>
+<h2>截图</h2><br/>
 <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsL
 DBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/
 2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
